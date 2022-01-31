@@ -1,2 +1,8 @@
-# thanksgiving-sharing
+# 새해 덕담 공유 링크 만들기
 HTML, CSS, javascript를 활용하여 덕담공유 페이지를 만들어보는 간단한 실습입니다.
+
+## 실습자료
+[스파르타코딩클럽 실습목차](https://teamsparta.notion.site/1-990470e426d748648bd302f73480a771)
+
+## 참고
+*서버 세팅 및 배포는 해당 리포에 포함되어 있지 않습니다.*
